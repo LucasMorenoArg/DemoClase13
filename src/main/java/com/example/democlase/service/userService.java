@@ -11,8 +11,8 @@ import java.util.List;
         @Autowired
         private UserRestApi userRestApi;
 
-        public List<String> getUsuarios() {
-            return userRestApi.getUsuarios();
+        public List<String> getUsuarios(int id) {
+            return userRestApi.getUsuarios(id);
         }
 
 
