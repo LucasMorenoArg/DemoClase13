@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.democlase"},{"l":"com.example.democlase.controller"},{"l":"com.example.democlase.service"}];updateSearchResults();
